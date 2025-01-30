@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
- 
+  - osTicket
   - [osTicket: Prerequisites and Installation](https://github.com/Kylerhew/osticket-prereqs)
     
   - <b>Microsoft Azure</b>
