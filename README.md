@@ -9,5 +9,5 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Kylerhew/CONFIGURE-AD)
   - [Deploying Active Directory and Group policy, managing accounts](https://github.com/Kylerhew/azure-network-protocols)
   - Security projects
-  - [Installing Intrusion Detection System (IDS) on Raspberry Pi (coming soon) ](https://github.com/Kylerhew/azure-network-protocols)
+  - [Installing Intrusion Detection System (IDS) on Raspberry Pi (coming soon) ](https://github.com/Kylerhew/IDSRaspPi)
 
